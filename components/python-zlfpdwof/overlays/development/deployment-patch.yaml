@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-zlfpdwof:github-948aeb2c48694e882ce1988554b6fc098c73a026
+        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-zlfpdwof:github-ec992f08eb1a3c40ccbdffb06e7ce4f1c469fd18
           name: container-image
